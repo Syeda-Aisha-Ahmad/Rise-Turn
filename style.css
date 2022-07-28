@@ -1,0 +1,9 @@
+.stylesheet-filter {
+    filter: brightness(80%);
+}
+
+@media only screen and (max-width:688px) {
+    .stylesheet-filter {
+        height: 300px;
+    }
+}
